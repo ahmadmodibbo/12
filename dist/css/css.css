@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+.site-header h3{
+    font-family: 'Neonderthaw', cursive;
+}
+.site-header a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Dongle', sans-serif;
+    font-size: 2rem;
+}
+.site-header a:hover{
+    color: rgb(247, 188, 88);
+}
+.top-div h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 3rem;
+}
+.btnn{
+    background-color: rgb(247, 188, 88);
+    color: rgb(245, 245, 245);
+}
+.about{
+    padding: 2rem;
+    
+}
+.featurette-text{
+    text-align: center;
+}
+.featurette-text a{
+    text-decoration: none;
+    background-color: rgb(247, 188, 88);
+    color: rgb(245, 245, 245);
+    margin: 2rem 0;
+}
+.services{
+    background-color: rgb(245, 245, 245);
+    padding: 1rem;
+}
+.footer{
+    background-color: rgb(42, 42, 42);
+}
+.footer h5{
+    color: rgb(172, 168, 168);
+}
+.footer a{
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+}
+.socials li{
+    margin-top: .5rem;
+}
+.featurette2{
+    padding: 1rem 0;
+}
+.footer-head{
+    font-family: 'Neonderthaw', cursive;
+    font-size: 2rem;
+}
